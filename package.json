@@ -1,0 +1,9 @@
+{
+  "name": "ccp",
+  "keywords": [],
+  "dependencies": {
+    "vue-material": "latest",
+    "vue": "latest"
+  },
+  "description": ""
+}
